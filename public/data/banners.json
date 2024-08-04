@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Discover Amazing Deals",
+    "description": "Get exclusive discounts and offers on your favorite products. Shop now and save big!",
+    "cta": "Shop Now",
+    "image": "/images/img1.png",
+    "background": "/images/bg1.png"
+  },
+  {
+    "title": "New Arrivals Just In",
+    "description": "Check out our latest collection of fashion and accessories. Refresh your wardrobe today!",
+    "cta": "Browse Collection",
+    "image": "/images/img2.png",
+    "background": "/images/bg2.png"
+  },
+  {
+    "title": "Limited Time Offer",
+    "description": "Don't miss out on our limited-time offer on top electronics. Hurry, while stocks last!",
+    "cta": "Grab the Deal",
+    "image": "/images/img3.png",
+    "background": "/images/bg3.png"
+  }
+]
